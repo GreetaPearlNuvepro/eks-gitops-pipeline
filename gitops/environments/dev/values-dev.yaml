@@ -1,0 +1,9 @@
+image:
+  repository: 433339368212.dkr.ecr.us-east-1.amazonaws.com/order-service
+  tag: latest
+
+replicaCount: 1
+
+service:
+  type: ClusterIP
+  port: 3000
