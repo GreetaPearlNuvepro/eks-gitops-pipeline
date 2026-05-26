@@ -5,6 +5,7 @@ on:
     branches: [main, develop]
     paths:
       - 'app/**'
+      - 'gitops/**'
       - '.github/workflows/ci-cd.yaml'
   pull_request:
     branches: [main]
