@@ -1,6 +1,6 @@
 image:
   repository: 433339368212.dkr.ecr.us-east-1.amazonaws.com/order-service
-  tag: 7b265e28ff2305d9526dcf3720ab5207e162db40
+  tag: 988532e96bf10fcb529ce8883be9de7c5d20cb15
 
 replicaCount: 1
 
